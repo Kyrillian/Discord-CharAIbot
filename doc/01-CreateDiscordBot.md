@@ -1,8 +1,18 @@
+# Step 01 - Create the Discord Bot
+
+### Navigate to the Discord Developer portal
+[https://discord.com/developers](https://discord.com/developers)
+
+### Create the bot
+![Image01](img/01/01.png?raw=true)
+
+- Click "New Application"
+
 General Information Menu
 App Icon
 Name
 Description
-![Image01](img/01/01.png?raw=true)
+
 
 
 Save Changes
