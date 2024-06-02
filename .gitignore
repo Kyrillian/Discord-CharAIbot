@@ -1,5 +1,7 @@
 # charAI config files
 env.py
+.utils/user_threads.json
+.utils/server_thread.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
