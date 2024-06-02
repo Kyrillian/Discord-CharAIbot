@@ -1,6 +1,6 @@
 # Discord-CharAIbot
 
-CharAIbot is a Discord bot leveraging the OpenAI Assistant functionality to create a chatbot that behaves in a way you configure it to.
+CharAIbot is a Character AI Discord bot leveraging the OpenAI Assistant functionality to create a chatbot that behaves in a way you configure it to.
 Give it some personality, make it act like a celebrity, sky's the limit.
 
 ## Features
