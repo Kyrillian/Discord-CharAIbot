@@ -53,5 +53,11 @@ The API key goes into the `env_openai_apikey` variable in `env.py`
 
 ![Image05](img/02/05.png?raw=true)
 
+## Finalize env.py
+Insert the two missing env_ variables into env.py.
+
+Your organization ID can be found using the cog icon in the top-right corner and navigating to "Organization" -> "General".
+Your project ID can be found in the same menu under "Project" -> "General". Make sure you have the correct project selected.
+
 ## Done
 - The OpenAI part of the configuration is done
