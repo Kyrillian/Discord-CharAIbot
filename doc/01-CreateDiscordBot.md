@@ -27,6 +27,8 @@
 - substitute `[CLIENT_ID]` with your actual client ID
 - Save changes
 
+Take note of that link! You will need it to invite the bot to your discord server.
+
 ### Bot Menu
 #### Token
 - Click `Reset Token` and follow the On-Screen instructions
