@@ -31,9 +31,8 @@ Take note of that link! You will need it to invite the bot to your discord serve
 
 ### Bot Menu
 #### Token
-- Click `Reset Token` and follow the On-Screen instructions
-- Note the new token. This cannot be displayed again.
-- The token goes into the `env_token` variable in `env.py` 
+Click `Reset Token` and follow the On-Screen instructions. Note the new token, as this cannot be displayed again.
+The token goes into the `env_token` variable in `env.py` 
 
 #### Autorization flow
 - Uncheck Public Bot
