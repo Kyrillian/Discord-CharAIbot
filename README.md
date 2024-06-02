@@ -8,6 +8,33 @@ CharAIbot is a Discord bot leveraging the OpenAI Assistant functionality to crea
 - Responds to DMs
 - persistent consciousness of conversations up to the maximum amount of context configured in the AI model
 
+## TL;DR
+
+### Downloading and configuring the Bot
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/kyrillian/discord-charaibot.git
+    cd discord-charaibot
+    ```
+
+2. Install the required dependencies:
+
+    ```sh
+    pip install -r .utils/requirements.txt
+    ```
+
+3. Configure your environment variables. Create a file named `env.py` from `env.py_template`
+
+### Running the Bot
+
+1. Run the bot:
+
+    ```sh
+    python bot/bot.py
+    ```
+
 ## Branches
 
 - `main`    : productive branch, latest stable release
@@ -25,7 +52,7 @@ Mentions in the server share a persistent consciousness, whereas each users DM-i
 
 These files are created and maintained automatically and locally.
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.x
 - pip (Python package installer)
@@ -33,7 +60,7 @@ These files are created and maintained automatically and locally.
 - An OpenAI Assistant configured in the OpenAI API portal (paid)
 - Creativity!
 
-### Documentation
+## Documentation
 
 This boilerplate requires parameterization of the `env.py` file.
 To get the base functionality running, the following env_ variables need to be provided:
